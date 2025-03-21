@@ -1,0 +1,10 @@
+[
+    {
+        "timestamp": "2025-03-21 16:38:44.544439",
+        "duration_minutes": 0.07,
+        "moves": 38,
+        "outcome": "Lose",
+        "mines": 15,
+        "grid_dimensions": "10x10"
+    }
+]
